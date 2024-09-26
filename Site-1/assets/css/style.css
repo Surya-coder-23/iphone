@@ -1,0 +1,38 @@
+.age{
+    background-color:palevioletred!important;
+}
+.navbar-brand {
+    color: maroon !important;
+    font-family: serif;
+}
+.nav-link{
+    color: maroon !important;
+}
+.service{
+    margin-top: 10px;
+}
+.head{
+    height: 50px;
+}
+.alt{
+    height: 260px;
+}
+.fqa{
+    background-color: purple;
+    height: 620px;
+}
+.text-center {
+    text-align: center!important;
+    color: chartreuse;
+}
+.accordion{
+padding: 10px;
+}
+.contact{ 
+    background-color: cornflowerblue;
+    height: 600px;
+}
+.pt-2{
+   
+    margin-top: 10px;  
+}
